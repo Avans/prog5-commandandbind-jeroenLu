@@ -13,3 +13,18 @@ C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindin
 C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo.uitwerking\obj\Debug\CommandingAndBindingDemo.uitwerking.csproj.GenerateResource.Cache
 C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo.uitwerking\obj\Debug\CommandingAndBindingDemo.exe
 C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo.uitwerking\obj\Debug\CommandingAndBindingDemo.pdb
+C:\Users\jeroen\Documents\avans\2eJaar\PROG\prog5-commandandbind-jeroenLu\CommandingAndBindingDemo.uitwerking\bin\Debug\CommandingAndBindingDemo.exe.config
+C:\Users\jeroen\Documents\avans\2eJaar\PROG\prog5-commandandbind-jeroenLu\CommandingAndBindingDemo.uitwerking\obj\Debug\CommandingAndBindingDemo.exe
+C:\Users\jeroen\Documents\avans\2eJaar\PROG\prog5-commandandbind-jeroenLu\CommandingAndBindingDemo.uitwerking\obj\Debug\CommandingAndBindingDemo.pdb
+C:\Users\jeroen\Documents\avans\2eJaar\PROG\prog5-commandandbind-jeroenLu\CommandingAndBindingDemo.uitwerking\bin\Debug\CommandingAndBindingDemo.exe
+C:\Users\jeroen\Documents\avans\2eJaar\PROG\prog5-commandandbind-jeroenLu\CommandingAndBindingDemo.uitwerking\bin\Debug\CommandingAndBindingDemo.pdb
+C:\Users\jeroen\Documents\avans\2eJaar\PROG\prog5-commandandbind-jeroenLu\CommandingAndBindingDemo.uitwerking\obj\Debug\CommandingAndBindingDemo.uitwerking.csprojResolveAssemblyReference.cache
+C:\Users\jeroen\Documents\avans\2eJaar\PROG\prog5-commandandbind-jeroenLu\CommandingAndBindingDemo.uitwerking\obj\Debug\MainWindow.g.cs
+C:\Users\jeroen\Documents\avans\2eJaar\PROG\prog5-commandandbind-jeroenLu\CommandingAndBindingDemo.uitwerking\obj\Debug\App.g.cs
+C:\Users\jeroen\Documents\avans\2eJaar\PROG\prog5-commandandbind-jeroenLu\CommandingAndBindingDemo.uitwerking\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jeroen\Documents\avans\2eJaar\PROG\prog5-commandandbind-jeroenLu\CommandingAndBindingDemo.uitwerking\obj\Debug\CommandingAndBindingDemo_MarkupCompile.cache
+C:\Users\jeroen\Documents\avans\2eJaar\PROG\prog5-commandandbind-jeroenLu\CommandingAndBindingDemo.uitwerking\obj\Debug\CommandingAndBindingDemo_MarkupCompile.lref
+C:\Users\jeroen\Documents\avans\2eJaar\PROG\prog5-commandandbind-jeroenLu\CommandingAndBindingDemo.uitwerking\obj\Debug\MainWindow.baml
+C:\Users\jeroen\Documents\avans\2eJaar\PROG\prog5-commandandbind-jeroenLu\CommandingAndBindingDemo.uitwerking\obj\Debug\CommandingAndBindingDemo.g.resources
+C:\Users\jeroen\Documents\avans\2eJaar\PROG\prog5-commandandbind-jeroenLu\CommandingAndBindingDemo.uitwerking\obj\Debug\CommandingAndBindingDemo.Properties.Resources.resources
+C:\Users\jeroen\Documents\avans\2eJaar\PROG\prog5-commandandbind-jeroenLu\CommandingAndBindingDemo.uitwerking\obj\Debug\CommandingAndBindingDemo.uitwerking.csproj.GenerateResource.Cache

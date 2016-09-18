@@ -53,6 +53,8 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="DegreesToFahrenheit.cs" />
+    <Compile Include="SetHighCommand.cs" />
     <Compile Include="DegreesToAngleConverter.cs" />
     <Compile Include="SetLowCommand.cs" />
     <Compile Include="TemperatureVM.cs" />

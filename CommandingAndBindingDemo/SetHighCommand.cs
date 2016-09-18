@@ -7,23 +7,26 @@ using System.Windows.Input;
 
 namespace CommandingAndBindingDemo
 {
-    class SetLowCommand : ICommand
+    class SetHighCommand : ICommand
     {
-        private TemperatureVM viewmodel;
+        private TemperatureVM _viewmodel;
 
-        public SetLowCommand(TemperatureVM viewmodel)
+        public SetHighCommand(TemperatureVM viewmodel)
         {
-            this.viewmodel = viewmodel;
+            this._viewmodel = viewmodel;
         }
-
         public bool CanExecute(object parameter)
         {
-            return viewmodel?.Temperature > 10;
+            if (_viewmodel == null)
+            {
+                return false;
+            }
+            return _viewmodel.Temperature <= 200;
         }
 
         public void Execute(object parameter)
         {
-            viewmodel.Temperature = 0;
+            _viewmodel.Temperature = 300;
         }
 
         public event EventHandler CanExecuteChanged

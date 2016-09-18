@@ -11,7 +11,8 @@ namespace CommandingAndBindingDemo
     {
         public object Convert(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture)
         {
-            return (double)value * 1.8000f + 32;
+           
+            return Math.Round(((double)value * 1.8000f + 32), 2);
         }
 
         public object ConvertBack(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture)

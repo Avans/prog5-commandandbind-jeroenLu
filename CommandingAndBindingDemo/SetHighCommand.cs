@@ -15,13 +15,10 @@ namespace CommandingAndBindingDemo
         {
             this._viewmodel = viewmodel;
         }
+        // Can only be set if current temperature 200 degrees or lower
         public bool CanExecute(object parameter)
         {
-            if (_viewmodel == null)
-            {
-                return false;
-            }
-            return _viewmodel.Temperature <= 200;
+            return _viewmodel?.Temperature <= 200;
         }
 
         public void Execute(object parameter)

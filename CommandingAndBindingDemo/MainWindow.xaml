@@ -4,9 +4,10 @@
         xmlns:local="clr-namespace:CommandingAndBindingDemo"
         Title="Binding Demo" Height="350" Width="525">
 
+    <!-- Declaring the toFahrenheitConverter -->
     <Window.Resources>
         <local:DegreesToAngleConverter x:Key="converter" />
-        <local:DegreesToFahrenheit x:Key="fahrenheitConverter" />
+        <local:DegreesToFahrenheit x:Key="toFahrenheitConverter" />
     </Window.Resources>
 
     <Window.DataContext>
@@ -55,7 +56,7 @@
             <Border BorderBrush="Black" BorderThickness="1" Height="152" Canvas.Left="185" Canvas.Top="10" Width="316">
                 <Grid Margin="0,0,9,0">
                     <Label Content="De temperatuur in Fahrenheit is:" Margin="9,113,10,9"/>
-                    <Label Content="{Binding Temperature, Converter={StaticResource fahrenheitConverter}}" HorizontalAlignment="Left" Margin="198,113,0,0" VerticalAlignment="Top" Background="White" FontWeight="Bold"/>
+                    <Label Content="{Binding Temperature, Converter={StaticResource toFahrenheitConverter}}" HorizontalAlignment="Left" Margin="198,113,0,0" VerticalAlignment="Top" Background="White" FontWeight="Bold"/>
                 </Grid>
                
             </Border>

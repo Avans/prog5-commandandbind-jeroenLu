@@ -11,6 +11,7 @@ namespace CommandingAndBindingDemo
     class DegreesToFahrenheit : IValueConverter
 
     {
+        // Converts the temperature in C to Fahrenheit
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
             return Math.Round((((double) value * 1.8) + 32), 2);
